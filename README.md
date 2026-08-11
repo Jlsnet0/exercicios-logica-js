@@ -9,7 +9,7 @@ Resolver 15 exercícios de cada nível.
 | Nível | Progresso |
 |---|---:|
 | 8 kyu | 15/15 |
-| 7 kyu | 4/15 |
+| 7 kyu | 6/15 |
 | 6 kyu | 0/15 |
 | 5 kyu | 0/15 |
 
